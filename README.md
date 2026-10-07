@@ -92,6 +92,5 @@ Todos los datos provienen de TerriData (DNP), que a su vez recoge información d
 
 Cita sugerida:
 
-> Ortega, Cristian (2026). *Caracterización TerriData* [tablero de Power BI]. [@CristianMDE](https://x.com/CristianMDE).
-
+> Ortega Carmona, C. C. (2026). *Caracterización TerriData* [Tablero de Power BI]. https://app.powerbi.com/view?r=eyJrIjoiMTRiMDExZjktMzViNC00MTBhLTllZDYtMWJkMTVhYWJhMTE0IiwidCI6IjE2YWY2YjQ1LTAwYzUtNGJhMy05ZDRjLThiZmExNmU0MzYwMyIsImMiOjR9
 La licencia cubre el tablero y el material propio de este repositorio. Los datos de TerriData son del DNP y se rigen por sus propias condiciones de uso.
