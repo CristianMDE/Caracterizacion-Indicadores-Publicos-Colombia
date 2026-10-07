@@ -17,7 +17,7 @@ La información sobre el Estado colombiano en los territorios es pública, pero 
 
 ## Qué contiene
 
-**1.750 indicadores**, organizados en **24 dimensiones** y **128 subcategorías**, para los municipios y departamentos del país y el total nacional, con series anuales desde el año 2000.
+**1.750 indicadores**, organizados en **24 dimensiones** y **128 subcategorías**, para los municipios y departamentos del país y el total nacional, con series anuales desde el año 2000 hasta 2025; las proyecciones de población llegan hasta 2027.
 
 | Dimensión | Indicadores | Subcategorías |
 |---|---:|---:|
