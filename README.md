@@ -86,12 +86,12 @@ Todos los datos provienen de TerriData (DNP), que a su vez recoge información d
 - `Tablero Caracterización Terridata Publico2.pbix`: el tablero, para abrir con Power BI Desktop.
 - `Homologación indicadores.csv`: el listado completo de indicadores con su dimensión, subcategoría y fuente.
 
+## Cómo citar
+
+Ortega Carmona, C. C. (2026). *Caracterización TerriData* [Tablero de Power BI]. https://app.powerbi.com/view?r=eyJrIjoiMTRiMDExZjktMzViNC00MTBhLTllZDYtMWJkMTVhYWJhMTE0IiwidCI6IjE2YWY2YjQ1LTAwYzUtNGJhMy05ZDRjLThiZmExNmU0MzYwMyIsImMiOjR9
+
 ## Licencia
 
 © 2026 Cristian Ortega. Este repositorio se publica bajo la licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es): puede usarse, compartirse y adaptarse, incluso con fines comerciales, siempre que se dé crédito al autor.
-
-Cita sugerida:
-
-> Ortega, Cristian (2026). *Caracterización TerriData* [tablero de Power BI]. [@CristianMDE](https://x.com/CristianMDE).
 
 La licencia cubre el tablero y el material propio de este repositorio. Los datos de TerriData son del DNP y se rigen por sus propias condiciones de uso.
